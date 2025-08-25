@@ -1,3 +1,6 @@
 flask==1.1.2
 requests==2.25.0
 pandas==1.2.0
+libsqlite3-0==3.50.2
+zlib1g==It is recommended to use alternative libraries or wait for the official patch.
+form-data==4.0.4
