@@ -1,3 +1,9 @@
 flask==1.1.2
 requests==2.25.0
 pandas==1.2.0
+berkeley db==5.3.28.1
+gnu c library==2.42
+gnu tar==1.36
+gnutls==3.8.9
+openssl==3.4.1
+perl==5.40.1
